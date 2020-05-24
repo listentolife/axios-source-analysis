@@ -1,3 +1,9 @@
+# axios 源码分析
+
+本项目是fork自axios源码仓库，主要是增加了一些源码分析的注释。
+
+源码上整体还是很容易理解的。有很多值得我们学习跟在开发中借鉴的实现方案的。后续会针对axios的源码分析写一些博客出来，等有空也可以尝试手写一版axios的实现。
+
 # axios
 
 [![npm version](https://img.shields.io/npm/v/axios.svg?style=flat-square)](https://www.npmjs.org/package/axios)
